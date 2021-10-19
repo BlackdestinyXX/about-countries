@@ -1,0 +1,21 @@
+{
+  "name": "about-countries",
+  "version": "1.0.4",
+  "description": "A simple package for interact with my api and get informations about countries by country code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "countries",
+    "api",
+    "countries-api",
+    "country",
+    "code"
+  ],
+  "author": "Bl4ckdestinyXX",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  }
+}
